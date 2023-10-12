@@ -7,11 +7,11 @@ environment-specific configuration into (plain YAML) Kubernetes manifests
 committed (or PR'ed) to environment-specific branches that are easily consumed
 by your favorite GitOps platform.
 
+<br clear="left"/>
+
 🟡&nbsp;&nbsp;Both Kargo Render and its GitHub Action are highly experimental at
 this time and breaking changes should be anticipated between pre-GA minor
 releases.
-
-<br clear="left"/>
 
 ## Getting Started
 
