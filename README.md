@@ -41,7 +41,7 @@ jobs:
         - env/prod
     steps:
     - name: Render and Commit Manifests
-      uses: akuity/bookkeeper@v0.1.0-rc.24
+      uses: akuity/kargo-render-by-akuity@v0.1.0-rc.30
       with:
         personalAccessToken: ${{ secrets.GITHUB_TOKEN }}
         targetBranch: ${{ matrix.targetBranch }}
