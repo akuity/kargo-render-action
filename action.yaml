@@ -1,4 +1,4 @@
-name: kargo-render
+name: kargo-render-by-akuity
 description: Publish rendered manifests to an environment branch
 inputs:
   personalAccessToken:
