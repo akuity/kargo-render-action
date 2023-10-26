@@ -1,6 +1,6 @@
 # Kargo Render for GitHub Actions
 
-<img width="80" align="left" src="logo.png" style="right-margin: 20px"/>
+<img width="140" align="left" src="kargo-logo.png" style="margin-right: 20px"/>
 
 Use Kargo Render for GitHub Actions along with Kustomize or Helm to pre-render
 environment-specific configuration into (plain YAML) Kubernetes manifests
