@@ -29,6 +29,10 @@ on:
     branches:
     - main
 
+permissions: 
+  contents: write
+  pull-requests: write # Optional, depending on your workflow
+
 jobs:
   render-manifests:
     name: Render and Commit Manifests
