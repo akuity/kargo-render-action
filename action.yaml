@@ -13,5 +13,5 @@ inputs:
     default: 'false'
 runs:
   using: docker
-  image: docker://ghcr.io/akuity/kargo-render:v0.1.0-rc.40
+  image: docker://ghcr.io/akuity/kargo-render:v0.1.0-rc.42
   args: ["action"]
